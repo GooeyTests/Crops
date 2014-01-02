@@ -20,5 +20,5 @@
  */
 {
     "author" : "metouto",
-    "basedOn" : "engine:plant"
+    "basedOn" : "core:plant"
 }
