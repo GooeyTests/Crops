@@ -19,7 +19,7 @@ import java.util.List;
 
 import org.terasology.entitySystem.Component;
 
-public class CropComponent implements Component {
+public final class CropComponent implements Component {
     public long lastgrowthcheck = -1;
     public boolean fullgrown = false;
 
