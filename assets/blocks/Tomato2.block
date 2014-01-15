@@ -20,5 +20,9 @@
  */
 {
     "author" : "metouto",
-    "basedOn" : "core:plant"
+    "basedOn" : "core:plant",
+    "entity" : {
+        "prefab" : "Crops:Tomato",
+		"keepActive" : true
+    }
 }
