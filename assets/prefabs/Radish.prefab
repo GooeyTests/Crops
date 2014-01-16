@@ -14,12 +14,13 @@
  * limitations under the License.
  */
 {
-	"Crop" = {
+	"ChangingBlocks" = {
 		"blockFamilyStages" = [  "Crops:Radish1",
 								 "Crops:Radish2",
 								 "Crops:Radish3",
 								 "Crops:Radish4",
 								 "Crops:Radish5" ],
+		"loops" = false,
 		"timeInGameMsToNextStage" = 30000
 	}
 }

@@ -14,11 +14,12 @@
  * limitations under the License.
  */
 {
-	"Crop" = {
+	"ChangingBlocks" = {
 		"blockFamilyStages" = [  "Crops:Oreo1",
 								 "Crops:Oreo2",
 								 "Crops:Oreo3",
 								 "Crops:Oreo4" ],
+		"loops" = false,
 		"timeInGameMsToNextStage" = 30000
 	}
 }
