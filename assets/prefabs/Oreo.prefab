@@ -15,11 +15,10 @@
  */
 {
 	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:Oreo1",
-								 "Crops:Oreo2",
-								 "Crops:Oreo3",
-								 "Crops:Oreo4" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+		"blockFamilyStages" : {  "Crops:Oreo1" : 30000,
+								 "Crops:Oreo2" : 30000,
+								 "Crops:Oreo3" : 30000,
+								 "Crops:Oreo4" : 30000 },
+		"loops" = false
 	}
 }

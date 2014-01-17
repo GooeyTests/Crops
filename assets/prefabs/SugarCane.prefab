@@ -15,12 +15,11 @@
  */
 {
 	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:SugarCane1",
-								 "Crops:SugarCane2",
-								 "Crops:SugarCane3",
-								 "Crops:SugarCane4",
-								 "Crops:SugarCane5" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+		"blockFamilyStages" : {  "Crops:SugarCane1" : 30000,
+								 "Crops:SugarCane2" : 30000,
+								 "Crops:SugarCane3" : 30000,
+								 "Crops:SugarCane4" : 30000,
+								 "Crops:SugarCane5" : 30000 },
+		"loops" : false
 	}
 }

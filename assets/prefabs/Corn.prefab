@@ -14,15 +14,14 @@
  * limitations under the License.
  */
 {
-	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:Corn1",
-								 "Crops:Corn2",
-								 "Crops:Corn3",
-								 "Crops:Corn4",
-								 "Crops:Corn5",
-								 "Crops:Corn6",
-								 "Crops:Corn7" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+	"ChangingBlocks" : {
+		"blockFamilyStages" : {  "Crops:Corn1" : 30000,
+								 "Crops:Corn2" : 30000,
+								 "Crops:Corn3" : 30000,
+								 "Crops:Corn4" : 30000,
+								 "Crops:Corn5" : 30000,
+								 "Crops:Corn6" : 30000,
+								 "Crops:Corn7" : 30000 },
+		"loops" : false
 	}
 }

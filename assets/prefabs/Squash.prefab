@@ -15,12 +15,11 @@
  */
 {
 	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:Squash1",
-								 "Crops:Squash2",
-								 "Crops:Squash3",
-								 "Crops:Squash4",
-								 "Crops:Squash5" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+		"blockFamilyStages" : {  "Crops:Squash1" : 30000,
+								 "Crops:Squash2" : 30000,
+								 "Crops:Squash3" : 30000,
+								 "Crops:Squash4" : 30000,
+								 "Crops:Squash5" : 30000 },
+		"loops" : false
 	}
 }

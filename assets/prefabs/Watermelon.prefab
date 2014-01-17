@@ -14,14 +14,13 @@
  * limitations under the License.
  */
 {
-	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:Watermelon1",
-								 "Crops:Watermelon2",
-								 "Crops:Watermelon3",
-								 "Crops:Watermelon4",
-								 "Crops:Watermelon5",
-								 "Crops:Watermelon6" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+	"ChangingBlocks" : {
+		"blockFamilyStages" : {  "Crops:Watermelon1" : 30000,
+								 "Crops:Watermelon2" : 30000,
+								 "Crops:Watermelon3" : 30000,
+								 "Crops:Watermelon4" : 30000,
+								 "Crops:Watermelon5" : 30000,
+								 "Crops:Watermelon6" : 30000 },
+		"loops" : false
 	}
 }

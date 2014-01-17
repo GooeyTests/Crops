@@ -15,12 +15,11 @@
  */
 {
 	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:Radish1",
-								 "Crops:Radish2",
-								 "Crops:Radish3",
-								 "Crops:Radish4",
-								 "Crops:Radish5" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+		"blockFamilyStages" : {  "Crops:Radish1" : 30000,
+								 "Crops:Radish2" : 30000,
+								 "Crops:Radish3" : 30000,
+								 "Crops:Radish4" : 30000,
+								 "Crops:Radish5" : 30000 },
+		"loops" : false
 	}
 }

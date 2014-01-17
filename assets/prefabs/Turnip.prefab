@@ -15,12 +15,11 @@
  */
 {
 	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:Turnip1",
-								 "Crops:Turnip2",
-								 "Crops:Turnip3",
-								 "Crops:Turnip4",
-								 "Crops:Turnip5" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+		"blockFamilyStages" : {  "Crops:Turnip1" : 30000,
+								 "Crops:Turnip2" : 30000,
+								 "Crops:Turnip3" : 30000,
+								 "Crops:Turnip4" : 30000,
+								 "Crops:Turnip5" : 30000 },
+		"loops" : false
 	}
 }

@@ -15,11 +15,10 @@
  */
 {
 	"ChangingBlocks" = {
-		"blockFamilyStages" = [  "Crops:Rice1",
-								 "Crops:Rice2",
-								 "Crops:Rice3",
-								 "Crops:Rice4" ],
-		"loops" = false,
-		"timeInGameMsToNextStage" = 30000
+		"blockFamilyStages" : {  "Crops:Rice1" : 30000,
+								 "Crops:Rice2" : 30000,
+								 "Crops:Rice3" : 30000,
+								 "Crops:Rice4" : 30000 },
+		"loops" : false
 	}
 }
