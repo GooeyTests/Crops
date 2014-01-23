@@ -1,5 +1,5 @@
 /*
- * Copyright 2013 Moving Blocks
+ * Copyright 2014 Moving Blocks
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,14 +15,14 @@
  */
 
 /**
- * Oreo plant in various stages of its life-cycle. Yes, Oreo plant ;-)
+ * A plant that grows glasses of delicious cold milk
  * @author (art) metouto
  */
 {
     "author" : "metouto",
     "basedOn" : "core:plant",
     "entity" : {
-        "prefab" : "Crops:Oreo",
+        "prefab" : "Crops:MilkPlant",
 		"keepActive" : true
     }
 }
