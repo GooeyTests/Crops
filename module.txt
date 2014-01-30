@@ -2,8 +2,8 @@
     "id" : "Crops",
     "version" : "0.2.0",
     "author" : "Metouto",
-    "displayName" : "Metouto's Plant Pack",
-    "description" : "Package of plants by Metouto ideal for growth stages (farming)",
+    "displayName" : "Crops by Metouto",
+    "description" : "A Package of crop-type plants by Metouto, ideal for growth stages (farming)",
     "dependencies" : [],
     "isServerSideOnly" : false
 }
