@@ -3,7 +3,7 @@
     "version" : "0.2.0",
     "author" : "Metouto",
     "displayName" : "Crops by Metouto",
-    "description" : "A Package of crop-type plants by Metouto, ideal for growth stages (farming)",
+    "description" : "NOTE: Moved to the PlantPack module. A Package of crop-type plants by Metouto, ideal for growth stages (farming)",
     "dependencies" : [],
     "isServerSideOnly" : false
 }
